@@ -1,0 +1,17 @@
+{
+    "Apache httpd:2.4.58": {
+        "status": "safe",
+        "vulnerabilities": [],
+        "scan_time": "2026-05-08 22:20:53.209478"
+    },
+    "dnsmasq:2.51": {
+        "status": "safe",
+        "vulnerabilities": [],
+        "scan_time": "2026-05-08 22:24:52.028795"
+    },
+    "Tornado httpd:6.5.5": {
+        "status": "safe",
+        "vulnerabilities": [],
+        "scan_time": "2026-05-08 22:28:14.329705"
+    }
+}

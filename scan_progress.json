@@ -1,0 +1,46 @@
+{
+  "phase": "complete",
+  "message": "Scan complete \u2014 3 host(s), 3 service(s), 0 CVE(s)",
+  "ip_range": "10.114.121.0/24",
+  "progress_percent": 100,
+  "total_hosts": 3,
+  "current_host": 3,
+  "current_ip": "",
+  "total_services": 3,
+  "total_vulns": 0,
+  "hosts_done": [
+    {
+      "ip": "10.114.121.147",
+      "hostname": "_gateway",
+      "vendor": "Unknown Vendor",
+      "services": 1,
+      "vulns": 0,
+      "asset_id": 1,
+      "vuln_list": []
+    },
+    {
+      "ip": "10.114.121.177",
+      "hostname": "Z",
+      "vendor": "Unknown Vendor",
+      "services": 2,
+      "vulns": 0,
+      "asset_id": 2,
+      "vuln_list": []
+    },
+    {
+      "ip": "10.114.121.57",
+      "hostname": "localhost",
+      "vendor": "Unknown Vendor",
+      "services": 0,
+      "vulns": 0,
+      "asset_id": 3,
+      "vuln_list": []
+    }
+  ],
+  "complete": true,
+  "error": null,
+  "scan_id": 31,
+  "started_at": "2026-05-09T20:50:00.545160",
+  "finished_at": "2026-05-09T21:04:35.162273",
+  "updated_at": "2026-05-09T21:04:35.162396"
+}

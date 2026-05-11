@@ -1,0 +1,268 @@
+[
+    {
+        "timestamp": "2026-05-08T16:41:48.044691",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "vulnerabilities": 12,
+        "services": 3
+    },
+    {
+        "timestamp": "2026-05-08T16:43:26.857597",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "vulnerabilities": 12,
+        "services": 3
+    },
+    {
+        "timestamp": "2026-05-08T16:43:34.287570",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "vulnerabilities": 12,
+        "services": 3
+    },
+    {
+        "timestamp": "2026-05-08T16:48:26.031868",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "vulnerabilities": 12,
+        "services": 3
+    },
+    {
+        "timestamp": "2026-05-08T17:14:32.365288",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "vulnerabilities": 12,
+        "services": 3
+    },
+    {
+        "timestamp": "2026-05-08T17:20:36.752352",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "vulnerabilities": 12,
+        "services": 3
+    },
+    {
+        "timestamp": "2026-05-08T17:30:38.322519",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "vulnerabilities": 12,
+        "services": 3
+    },
+    {
+        "timestamp": "2026-05-08T17:59:16.412563",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "vulnerabilities": 12,
+        "services": 3
+    },
+    {
+        "timestamp": "2026-05-08T18:10:33.128049",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "vulnerabilities": 12,
+        "services": 3
+    },
+    {
+        "timestamp": "2026-05-08T18:15:33.784092",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "vulnerabilities": 12,
+        "services": 3
+    },
+    {
+        "timestamp": "2026-05-08T22:28:15.770627",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "vulnerabilities": 90,
+        "services": 3
+    },
+    {
+        "timestamp": "2026-05-08T22:29:56.803694",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "vulnerabilities": 0,
+        "services": 3
+    },
+    {
+        "timestamp": "2026-05-09T14:13:45.241844",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T14:25:56.877042",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T14:27:34.507477",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T14:29:42.239099",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T14:34:15.644491",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T14:54:43.273884",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T15:36:43.754152",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T15:41:15.345740",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T17:21:21.455950",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T17:25:55.907923",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T17:30:35.920199",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T17:35:21.997419",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T17:52:16.482012",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T17:56:52.348619",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T18:01:25.089385",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T18:05:58.464964",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T18:20:40.401216",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T18:47:11.273860",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T18:51:59.404444",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T18:56:35.404094",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T19:12:25.600854",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T19:21:49.866047",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T19:26:46.852418",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T19:46:48.536052",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T20:03:28.874850",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-09T21:04:35.188714",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    }
+]
