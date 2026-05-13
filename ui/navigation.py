@@ -1,5 +1,6 @@
 import streamlit as st
 from pages.login import check_authentication, get_current_user, logout
+from ui.theme import apply_app_theme
 
 def render_navigation():
     """
@@ -410,6 +411,7 @@ def render_navigation():
     });
     </script>
     """, unsafe_allow_html=True)
+    apply_app_theme()
     
     # Render the sidebar navigation
     with st.sidebar:
@@ -502,13 +504,6 @@ def render_navigation():
             """, unsafe_allow_html=True)
         
         # Clean Footer with animated status
-        st.markdown("""
-        <div class="sidebar-footer">
-            🟢 SYSTEM STATUS: <span>● ONLINE</span><br>
-            🔐 SECURE CONNECTION
-        </div>
-        """, unsafe_allow_html=True)
-
 
 # Helper function to get current page (optional - for advanced features)
 def get_current_page():

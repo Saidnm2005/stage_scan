@@ -3,9 +3,8 @@
     "auto_rerun": true,
     "interval": 4,
     "unit": "Minutes",
-    "last_updated": "2026-05-09T14:29:23.087914",
-    "last_scan_completed": "2026-05-09T21:04:35.191096",
+    "last_launch": "2026-05-13T17:45:54.112515",
+    "last_scan_completed": "2026-05-13T18:15:10.589120",
     "last_scan_hosts": 3,
-    "last_scan_vulns": 0,
-    "last_launch": "2026-05-09T14:12:49.514222"
+    "last_scan_vulns": 0
 }

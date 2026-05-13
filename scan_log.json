@@ -1,12 +1,5 @@
 [
     {
-        "timestamp": "2026-05-08T16:41:48.044691",
-        "ip_range": "10.114.121.0/24",
-        "hosts": 3,
-        "vulnerabilities": 12,
-        "services": 3
-    },
-    {
         "timestamp": "2026-05-08T16:43:26.857597",
         "ip_range": "10.114.121.0/24",
         "hosts": 3,
@@ -260,6 +253,97 @@
     },
     {
         "timestamp": "2026-05-09T21:04:35.188714",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-11T16:15:26.106412",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-11T16:27:05.877683",
+        "ip_range": "192.168.0.0/24",
+        "hosts": 3,
+        "services": 2,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-11T16:42:45.152420",
+        "ip_range": "192.168.0.0/24",
+        "hosts": 4,
+        "services": 2,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-11T17:19:45.138852",
+        "ip_range": "192.168.0.0/24",
+        "hosts": 3,
+        "services": 2,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-11T17:57:01.469331",
+        "ip_range": "192.168.0.0/24",
+        "hosts": 4,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-11T18:03:19.767820",
+        "ip_range": "192.168.0.0/24",
+        "hosts": 4,
+        "services": 2,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-11T18:52:22.367420",
+        "ip_range": "192.168.0.0/24",
+        "hosts": 6,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-11T20:24:07.693789",
+        "ip_range": "192.168.0.0/24",
+        "hosts": 5,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-11T21:22:06.880571",
+        "ip_range": "192.168.0.0/24",
+        "hosts": 3,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-13T17:46:33.002102",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-13T17:51:43.239915",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 3,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-13T18:09:45.642955",
+        "ip_range": "10.114.121.0/24",
+        "hosts": 2,
+        "services": 0,
+        "vulnerabilities": 0
+    },
+    {
+        "timestamp": "2026-05-13T18:15:10.586164",
         "ip_range": "10.114.121.0/24",
         "hosts": 3,
         "services": 3,

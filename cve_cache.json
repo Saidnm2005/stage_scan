@@ -10,5 +10,11 @@
     "timestamp": 1778275589.5329323,
     "cpe": "cpe:2.3:a:httpd:httpd:6.5.5:*:*:*:*:*:*:*",
     "nvd_feed_file": []
+  },
+  "cpe:2.3:a:httpd:httpd:2.0:*:*:*:*:*:*:*_ALL": {
+    "cves": [],
+    "timestamp": 1778518524.8684237,
+    "cpe": "cpe:2.3:a:httpd:httpd:2.0:*:*:*:*:*:*:*",
+    "nvd_feed_file": []
   }
 }

@@ -7,7 +7,7 @@ showErrorDetails = false
 # Hides the 'sidebar' toggle button until hovered (cleaner look)
 hideSidebarNav = false
 [theme]
-base="dark"
+base="light"
 primaryColor="#58a6ff"
 backgroundColor="#0d1117"
 secondaryBackgroundColor="#161b22"

@@ -29,18 +29,18 @@
     },
     {
       "ip": "10.114.121.57",
-      "hostname": "localhost",
-      "vendor": "Unknown Vendor",
+      "hostname": "",
+      "vendor": "",
       "services": 0,
       "vulns": 0,
-      "asset_id": 3,
+      "asset_id": 2,
       "vuln_list": []
     }
   ],
   "complete": true,
   "error": null,
-  "scan_id": 31,
-  "started_at": "2026-05-09T20:50:00.545160",
-  "finished_at": "2026-05-09T21:04:35.162273",
-  "updated_at": "2026-05-09T21:04:35.162396"
+  "scan_id": 1,
+  "started_at": "2026-05-13T18:14:23.872983",
+  "finished_at": "2026-05-13T18:15:10.532253",
+  "updated_at": "2026-05-13T18:15:10.532407"
 }

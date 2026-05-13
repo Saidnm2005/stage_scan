@@ -4,6 +4,7 @@ import json
 import os
 import re
 from datetime import datetime, timedelta
+from ui.theme import apply_login_theme
 
 # Must be first Streamlit command
 st.set_page_config(
@@ -308,6 +309,7 @@ def login_page():
         }
     </style>
     """, unsafe_allow_html=True)
+    apply_login_theme()
     
     # Check if already logged in
     session = load_session()

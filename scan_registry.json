@@ -13,5 +13,10 @@
         "status": "safe",
         "vulnerabilities": [],
         "scan_time": "2026-05-08 22:28:14.329705"
+    },
+    "Microsoft HTTPAPI httpd:2.0": {
+        "status": "safe",
+        "vulnerabilities": [],
+        "scan_time": "2026-05-11 17:57:00.304157"
     }
 }
